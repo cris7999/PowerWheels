@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE / Editor settings
+.vscode/
+.idea/
+.DS_Store
